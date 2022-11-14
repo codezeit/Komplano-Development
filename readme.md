@@ -10,7 +10,7 @@ application and its dependencies in containers.
 
 ## Setup
 
-1. Clone this repository
+1. Clone this repository `git clone --recursive https://github.com/codezeit/Komplano-Development.git`
 2. Copy `.env.example` to `.env` and edit it to your needs
    ( right now we actually don't support any configuration directly in the
    `.env` file in this layer. But we'll add it in the future )
