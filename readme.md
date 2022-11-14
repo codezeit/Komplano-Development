@@ -16,6 +16,7 @@ application and its dependencies in containers.
    `.env` file in this layer. But we'll add it in the future )
 3. Run `docker-compose up -d` to start the containers or `docker-compose up` to
    start the containers and watch the logs
+4. In the Browser go to https://localhost and accept the self-signed certificate
 
 ## Usage
 
