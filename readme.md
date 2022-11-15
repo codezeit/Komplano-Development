@@ -18,11 +18,6 @@ application and its dependencies in containers.
    start the containers and watch the logs
 4. In the Browser go to https://localhost and accept the self-signed certificate
 
-## Usage
-
-The application is available at http://localhost , right now we don't support
-HTTPS.
-
 ## Overview
 
 The application is split into multiple containers:
